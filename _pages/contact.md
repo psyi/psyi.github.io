@@ -22,6 +22,6 @@ Chengdu, Sichuan 610065, P. R. China
 
 Direction
 ======
-Google map: https://goo.gl/maps/pTLcvn6fzi8dVEtXA
+Google map: <a href="https://goo.gl/maps/pTLcvn6fzi8dVEtXA">https://goo.gl/maps/pTLcvn6fzi8dVEtXA</a>
 
-Baidu map: https://j.map.baidu.com/01/nN7c
+Baidu map: <a href="https://j.map.baidu.com/01/nN7c">https://j.map.baidu.com/01/nN7c</a>
