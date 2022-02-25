@@ -31,18 +31,21 @@ Research experience
   Supervisor: Dr. Gohta Goshima <br>
   Research area: Cell growth and division in the moss <i>P. Patens</i>
 
+* 2020-12 to present: Group leader, Sichuan University
+  Research area: Plant cell division and morphogenesis 
+
 Funding
 ======
 * 2022-01 to 2024-12: National Natural Science Foundation of China for Young Scientists <br>
   Grant No. 32100273
 
-* 2022-01 to 2023-12: The innovative research program from SCU <br>
+* 2022-01 to 2023-12: The Innovative Research Program from SCU <br>
   Grant No. 2022SCUH0010
 
-* 2021-01 to 2023-12: The start-up grant from SCU <br>
+* 2021-01 to 2023-12: The Start-up Grant from SCU <br>
   Grant No. 1082204112609
 
-* 2018-10 to 2020-09: The Human Frontier Science Program long-term fellowship <br>
+* 2018-10 to 2020-09: The long-term fellowship from The Human Frontier Science Program <br>
   Grant No. LT000611/2018-L
 
 
