@@ -16,6 +16,10 @@ Wangjiang Campus, Sichuan University <br>
 No.24 South Section 1, Yihuan Road, Wuhou District <br>
 Chengdu, Sichuan 610065, P. R. China
 
+Email
+======
+yipeishan[AT]scu.edu.cn (replace [AT] with @)
+
 Direction
 ======
 Google map: https://goo.gl/maps/pTLcvn6fzi8dVEtXA
