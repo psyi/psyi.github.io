@@ -23,7 +23,7 @@ Li, D., Liu, Y., <b>Yi, P.</b>, Zhu, Z., Li, W., Zhang, Q.C., Li, J.B., and Ou, 
 
 <b>Yi, P.</b>, Li, W.J., Dong, M.Q., and Ou, G. (2017). Dynein-Driven Retrograde Intraflagellar Transport Is Triphasic in <i>C. elegans</i> Sensory Cilia. <b>Curr Biol</b> 27, 1448-1461. doi: 10.1016/j.cub.2017.04.015.
 
-Li, W., <b>Yi, P.</b>, and Ou, G. (2015). Somatic CRISPR-Cas9-induced mutations reveal roles of embryonically essential dynein chains in <i>Caenorhabditis elegans</i> cilia. <b>J Cell Biol</b> 208, 683-692. doi: 10.1083/jcb.201411041.(<b>co-first author</b>)
+Li, W., <b>Yi, P.</b>, and Ou, G. (2015). Somatic CRISPR-Cas9-induced mutations reveal roles of embryonically essential dynein chains in <i>Caenorhabditis elegans</i> cilia. <b>J Cell Biol</b> 208, 683-692. doi: 10.1083/jcb.201411041. (<b>co-first author</b>)
 
 <b>Yi, P.</b>, Li, W., and Ou, G. (2014). The application of transcription activator-like effector nucleases for genome editing in <i>C. elegans</i>. <b>Methods</b> 68, 389-396. doi: 10.1016/j.ymeth.2014.04.013.
 
