@@ -31,7 +31,7 @@ Research experience
   Supervisor: Dr. Gohta Goshima <br>
   Research area: Cell growth and division in the moss <i>P. Patens</i>
 
-* 2020-12 to present: Group leader, Sichuan University
+* 2020-12 to present: Group leader, Sichuan University <br>
   Research area: Plant cell division and morphogenesis 
 
 Funding
