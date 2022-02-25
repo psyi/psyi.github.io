@@ -13,17 +13,21 @@ Education
 ======
 * B.S. in Biological Science, Peking University, 2007 - 2011
 * M.S. in Cell Biology, University of Chinese Academy of Sciences, 2011 - 2014 <br>
-  Supervisor: Prof. Guangshuo Ou
+  Supervisor: Prof. Guangshuo Ou <br>
+  Research area: Asymmetric division and differentiation of neuroblasts in <I>C. elegans</i>
 * Ph.D in Cell Biology, Tsinghua University, 2014 - 2017 <br>
-  Supervisor: Prof. Guangshuo Ou
+  Supervisor: Prof. Guangshuo Ou <br>
+  Research area: Dynamics and regulation of cytoplasmic dynein-2 and kinesin-2 in <I>C. elegans</i> sensory cilia
 
 Research experience
 ======
 * 2016-07 to 2016-08: Visiting scholar, Oxford University <br>
-  Collaborator: Prof. Jordan Raff
+  Collaborator: Prof. Jordan Raff <br>
+  Research topics: Super-resolution imaging of intraflagellar transport in cilia
 
 * 2017-10 to 2020-09: Postdoctoral fellow, Nagoya University <br>
-  Supervisor: Dr. Gohta Goshima
+  Supervisor: Dr. Gohta Goshima <br>
+  Research area: Cell growth and division in the moss <i>P. Patens</i>
 
 Funding
 ======
