@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biological Science, Peking University, 2007 - 2011
-* M.S. in Cell Biology, University of Chinese Academy of Sciences, 2011 - 2014 <br>
+* 2007-09 to 2011-07, B.S. in Biological Science, Peking University <br>
+* 2011-09 to 2014-07, M.S. in Cell Biology, University of Chinese Academy of Sciences <br>
   Supervisor: Prof. Guangshuo Ou <br>
   Research area: Asymmetric division and differentiation of neuroblasts in <I>C. elegans</i>
-* Ph.D in Cell Biology, Tsinghua University, 2014 - 2017 <br>
+* 2014-09 to 2017-06, Ph.D in Cell Biology, Tsinghua University <br>
   Supervisor: Prof. Guangshuo Ou <br>
   Research area: Dynamics and regulation of cytoplasmic dynein-2 and kinesin-2 in <I>C. elegans</i> sensory cilia
 
