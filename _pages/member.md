@@ -11,7 +11,7 @@ redirect_from:
 
 YI, Peishan
 ======
-* Group leader.
+* Group leader
 
 OU, Hongxin
 ======
