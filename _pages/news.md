@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-* Feb 25, 2022
-Our review papter is published on The Plant Cell!
+Feb 25, 2022: Our review papter is published on The Plant Cell!
