@@ -17,7 +17,7 @@ Education
   Supervisor: Prof. Guangshuo Ou <br>
   Research area: Asymmetric division and differentiation of neuroblasts in <I>C. elegans</i>
 
-* 2014-09 to 2017-06, Ph.D in Cell Biology, <b>Tsinghua University</b> <br>
+* 2014-09 to 2017-06, Ph.D. in Cell Biology, <b>Tsinghua University</b> <br>
   Supervisor: Prof. Guangshuo Ou <br>
   Research area: Dynamics and regulation of cytoplasmic dynein-2 and kinesin-2 in <I>C. elegans</i> sensory cilia
 
