@@ -11,41 +11,41 @@ redirect_from:
 
 Education
 ======
-* 2007-09 to 2011-07, B.S. in Biological Science, <b>Peking University</b>
+2007-09 to 2011-07, B.S. in Biological Science, <b>Peking University</b>
 
-* 2011-09 to 2014-07, M.S. in Cell Biology, <b>University of Chinese Academy of Sciences </b><br>
+2011-09 to 2014-07, M.S. in Cell Biology, <b>University of Chinese Academy of Sciences </b><br>
   Supervisor: Prof. Guangshuo Ou <br>
   Research area: Asymmetric division and differentiation of neuroblasts in <I>C. elegans</i>
 
-* 2014-09 to 2017-06, Ph.D. in Cell Biology, <b>Tsinghua University</b> <br>
+2014-09 to 2017-06, Ph.D. in Cell Biology, <b>Tsinghua University</b> <br>
   Supervisor: Prof. Guangshuo Ou <br>
   Research area: Dynamics and regulation of cytoplasmic dynein-2 and kinesin-2 in <I>C. elegans</i> sensory cilia
 
 Research experience
 ======
-* 2016-07 to 2016-08: Visiting scholar, <b>Oxford University</b> <br>
+2016-07 to 2016-08: Visiting scholar, <b>Oxford University</b> <br>
   Collaborator: Prof. Jordan Raff <br>
   Research topics: Super-resolution imaging of intraflagellar transport in cilia
 
-* 2017-10 to 2020-09: Postdoctoral fellow, <b>Nagoya University</b> <br>
+2017-10 to 2020-09: Postdoctoral fellow, <b>Nagoya University</b> <br>
   Supervisor: Dr. Gohta Goshima <br>
   Research area: Cell growth and division in the moss <i>P. Patens</i>
 
-* 2020-12 to present: Group leader, Sichuan University <br>
+2020-12 to present: Group leader, Sichuan University <br>
   Research area: Plant cell division and morphogenesis 
 
 Funding
 ======
-* 2022-01 to 2024-12: National Natural Science Foundation of China for Young Scientists <br>
+2022-01 to 2024-12: National Natural Science Foundation of China for Young Scientists <br>
   Grant No. 32100273
 
-* 2022-01 to 2023-12: The Innovative Research Program from SCU <br>
+2022-01 to 2023-12: The Innovative Research Program from SCU <br>
   Grant No. 2022SCUH0010
 
-* 2021-01 to 2023-12: The Start-up Grant from SCU <br>
+2021-01 to 2023-12: The Start-up Grant from SCU <br>
   Grant No. 1082204112609
 
-* 2018-10 to 2020-09: The long-term fellowship from The Human Frontier Science Program <br>
+2018-10 to 2020-09: The long-term fellowship from The Human Frontier Science Program <br>
   Grant No. LT000611/2018-L
 
 
