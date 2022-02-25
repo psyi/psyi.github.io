@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-1. <b>Yi, P.</b>, and Goshima, G. (2022). Division site determination during asymmetric cell division in plants. Plant Cell, koac069. <br>
-doi: 10.1093/plcell/koac069.
+1. <b>Yi, P.</b>, and Goshima, G. (2022). Division site determination during asymmetric cell division in plants. Plant Cell, koac069. doi: 10.1093/plcell/koac069.
 2. Li, D., Liu, Y., <b>Yi, P.</b>, Zhu, Z., Li, W., Zhang, Q.C., Li, J.B., and Ou, G. (2021). RNA editing restricts hyperactive ciliary kinases. Science 373, 984-991. 
 doi: 10.1126/science.abd8971.
 3. <b>Yi, P.</b>, and Goshima, G. (2020). Transient cotransformation of CRISPR/Cas9 and oligonucleotide templates enables efficient editing of target loci in Physcomitrella patens. Plant Biotechnol J 18, 599-601. 
