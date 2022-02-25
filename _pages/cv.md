@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2007-09 to 2011-07, B.S. in Biological Science, <b>Peking University</b> <br>
+* 2007-09 to 2011-07, B.S. in Biological Science, <b>Peking University</b>
 
 * 2011-09 to 2014-07, M.S. in Cell Biology, <b>University of Chinese Academy of Sciences </b><br>
   Supervisor: Prof. Guangshuo Ou <br>
@@ -27,7 +27,7 @@ Research experience
   Collaborator: Prof. Jordan Raff <br>
   Research topics: Super-resolution imaging of intraflagellar transport in cilia
 
-* 2017-10 to 2020-09: Postdoctoral fellow, <b>Nagoya University<b> <br>
+* 2017-10 to 2020-09: Postdoctoral fellow, <b>Nagoya University</b> <br>
   Supervisor: Dr. Gohta Goshima <br>
   Research area: Cell growth and division in the moss <i>P. Patens</i>
 
