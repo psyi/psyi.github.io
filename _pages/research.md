@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
 ======
 * This is an introduction.
 
