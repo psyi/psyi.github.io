@@ -13,6 +13,14 @@ YI, Peishan
 ======
 * Group leader.
 
-Ou, Hongxin
+OU, Hongxin
 ======
-* Undergraduate student (2020-03 to present)    
+* Undergraduate student (2020-03 to present)
+
+LIA, Linyu
+======
+* Graduate student (2020-09 to present)   
+
+RUAN, Jingtong
+======
+* Graduate student (2020-09 to present)   
