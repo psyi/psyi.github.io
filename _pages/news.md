@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Feb 25, 2022</b>
-Our review papter is published in The Plant Cell online!
+<b>Feb 25, 2022</b> <br>
+Our review paper is published in The Plant Cell online!
