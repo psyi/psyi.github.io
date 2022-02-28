@@ -29,7 +29,7 @@ Research experience
 
 2017-10 to 2020-09, Postdoctoral fellow, <b>Nagoya University</b>, Nagoya, Japan <br>
   Supervisor: Prof. Gohta Goshima <br>
-  Research area: Cell growth and division in the moss <i>P. Patens</i>
+  Research area: Cell growth and division in the moss <i>P. patens</i>
 
 2020-12 to present: Group leader, <b>Sichuan University </b>, Chengdu, China, <br>
   Research area: Plant cell division and morphogenesis 
