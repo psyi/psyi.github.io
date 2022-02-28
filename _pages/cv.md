@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-09/2007 - 07/2011, BSc in Biological Science, <b>Peking University</b>, Beijing, China <br>
+09/2007 - 07/2011, BSc in Biological Science, <b>Peking University</b>, Beijing, China
 
 09/2011 - 07/2014, MSc in Cell Biology, <b>University of Chinese Academy of Sciences </b>, Beijing, China <br>
   Supervisor: Prof. Guangshuo Ou <br>
