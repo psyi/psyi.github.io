@@ -23,7 +23,7 @@ Education
 
 Research experience
 ======
-07/2016 - 08/2016, Visiting scholar, <b>Oxford University</b>, Oxford, UK <br>
+07/2016 - 08/2016, Visiting scholar, <b>University of Oxford</b>, Oxford, UK <br>
   Collaborator: Prof. Jordan Raff <br>
   Research topics: Super-resolution imaging of intraflagellar transport in cilia
 
