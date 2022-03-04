@@ -11,8 +11,8 @@ redirect_from:
 
 Peishan Yi, PhD
 
-Education
-======
+<b>Education</b>
+
 09/2007 - 07/2011, BSc in Biological Science, <b>Peking University</b>, Beijing, China
 
 09/2011 - 07/2014, MSc in Cell Biology, <b>University of Chinese Academy of Sciences </b>, Beijing, China <br>
@@ -23,8 +23,8 @@ Education
   Supervisor: Prof. Guangshuo Ou <br>
   Research area: Dynamics and regulation of cytoplasmic dynein-2 and kinesin-2 in <I>C. elegans</i> sensory cilia
 
-Research experience
-======
+<b>Research experience</b>
+
 07/2016 - 08/2016, Visiting scholar, <b>University of Oxford</b>, Oxford, UK <br>
   Collaborator: Prof. Jordan Raff <br>
   Research topics: Super-resolution imaging of intraflagellar transport in cilia
@@ -36,8 +36,8 @@ Research experience
 2020-12 to present: Group leader, <b>Sichuan University </b>, Chengdu, China, <br>
   Research area: Plant cell division and morphogenesis 
 
-Funding
-======
+<b>Funding</b>
+
 01/2022 - 12/2024, National Natural Science Foundation of China for Young Scientists <br>
   Grant No. 32100273
 
