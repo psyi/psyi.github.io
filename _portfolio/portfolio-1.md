@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Embracing the New Year 2022"
+excerpt: "Left to right: Hongxin, Peishan, Jingtong, Linyu<br/><img src='/images/2022-01-22-gathering.jpg'>"
 collection: portfolio
 ---
 
