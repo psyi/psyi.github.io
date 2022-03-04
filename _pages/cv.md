@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Peishan Yi, PhD
+
 Education
 ======
 09/2007 - 07/2011, BSc in Biological Science, <b>Peking University</b>, Beijing, China
