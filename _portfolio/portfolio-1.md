@@ -1,8 +1,6 @@
 ---
 title: "Embracing the New Year 2022"
-excerpt: "Left to right: Hongxin, Peishan, Jingtong, Linyu<br/>
-
-<img src='/images/2022-01-22-gathering.jpg'>"
+excerpt: "Left to right: Hongxin, Peishan, Jingtong, Linyu<br/><img src='/images/2022-01-22-gathering.jpg'>"
 collection: portfolio
 ---
 
