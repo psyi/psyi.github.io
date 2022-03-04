@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b> 2022-01-22 Embracing the Year of the Tiger </b> </br> Left to right: Hongxin, Peishan, Jingtong, Linyu
+<li><b> 2022-01-22 Embracing the Year of the Tiger </b></li> </br> Left to right: Hongxin, Peishan, Jingtong, Linyu
 
 <img src='/images/2022-01-22-gathering.jpg' width='50%' height='50%'>"
 
