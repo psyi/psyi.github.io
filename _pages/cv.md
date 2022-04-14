@@ -47,7 +47,7 @@ Peishan Yi, PhD
 01/2021 - 12/2023, The Start-up Grant from SCU <br>
   Grant No. 1082204112609
 
-10/2018 - 09/2020, The long-term fellowship from The Human Frontier Science Program <br>
+10/2018 - 09/2020, The Long-term Postdoctoral Fellowship from The Human Frontier Science Program <br>
   Grant No. LT000611/2018-L
 
 
