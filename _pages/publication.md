@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Yi, P.</b>, and Goshima, G. (2022). Division site determination during asymmetric cell division in plants. <b>Plant Cell</b> 34, 2120-2139. <a href="http://psyi.github.io/files/2022-PC.pdf">PDF</a>
+<b>Yi, P.</b> and Goshima, G. (2022). Division site determination during asymmetric cell division in plants. <b>Plant Cell</b> 34, 2120-2139. <a href="http://psyi.github.io/files/2022-PC.pdf">PDF</a>
 
 Li, D., Liu, Y., <b>Yi, P.</b>, Zhu, Z., Li, W., Zhang, Q.C., Li, J.B., and Ou, G. (2021). RNA editing restricts hyperactive ciliary kinases. <b>Science</b> 373, 984-991. <a href="http://psyi.github.io/files/2021-Science.pdf">PDF</a>
 
-<b>Yi, P.</b>, and Goshima, G. (2020). Transient cotransformation of CRISPR/Cas9 and oligonucleotide templates enables efficient editing of target loci in <i>Physcomitrella patens</i>. <b>Plant Biotechnol J</b> 18, 599-601. <a href="http://psyi.github.io/files/2020-PBJ.pdf">PDF</a> 
+<b>Yi, P.</b> and Goshima, G. (2020). Transient cotransformation of CRISPR/Cas9 and oligonucleotide templates enables efficient editing of target loci in <i>Physcomitrella patens</i>. <b>Plant Biotechnol J</b> 18, 599-601. <a href="http://psyi.github.io/files/2020-PBJ.pdf">PDF</a> 
 
-<b>Yi, P.</b>, and Goshima, G. (2020). Rho of Plants GTPases and Cytoskeletal Elements Control Nuclear Positioning and Asymmetric Cell Division during <i>Physcomitrella patens</i> Branching. <b>Curr Biol</b> 30, 2860-2868. <a href="http://psyi.github.io/files/2020-CB.pdf">PDF</a>
+<b>Yi, P.</b> and Goshima, G. (2020). Rho of Plants GTPases and Cytoskeletal Elements Control Nuclear Positioning and Asymmetric Cell Division during <i>Physcomitrella patens</i> Branching. <b>Curr Biol</b> 30, 2860-2868. <a href="http://psyi.github.io/files/2020-CB.pdf">PDF</a>
 
 <b>Yi, P.</b>, Xie, C., and Ou, G. (2018). The kinases male germ cell-associated kinase and cell cycle-related kinase regulate kinesin-2 motility in <i>Caenorhabditis elegans</i> neuronal cilia. <b>Traffic</b> 19, 522-535. <a href="http://psyi.github.io/files/2018-Traffic.pdf">PDF</a>
 
-<b>Yi, P.</b>, and Goshima, G. (2018). Microtubule nucleation and organization without centrosomes. <b>Curr Opin Plant Biol</b> 46, 1-7. <a href="http://psyi.github.io/files/2018-COPB.pdf">PDF</a>
+<b>Yi, P.</b> and Goshima, G. (2018). Microtubule nucleation and organization without centrosomes. <b>Curr Opin Plant Biol</b> 46, 1-7. <a href="http://psyi.github.io/files/2018-COPB.pdf">PDF</a>
 
 <b>Yi, P.</b>, Li, W.J., Dong, M.Q., and Ou, G. (2017). Dynein-Driven Retrograde Intraflagellar Transport Is Triphasic in <i>C. elegans</i> Sensory Cilia. <b>Curr Biol</b> 27, 1448-1461. <a href="http://psyi.github.io/files/2017-CB.pdf">PDF</a>
 
