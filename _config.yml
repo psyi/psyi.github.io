@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Yi Lab"
+title                    : "Yi Lab"
 title_separator          : "-"
 name                     : &name "Peishan Yi"
 description              : &description "personal description"
