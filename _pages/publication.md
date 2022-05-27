@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Ruan, J. and <b>Yi, P.</b> (2022). Exogenous 6-benzylaminopurine inhibits tip growth and cytokinesis via regulating actin dynamics in the moss <I>Physcomitrium patens</I>. Planta 256:1. <a href="http://psyi.github.io/files/2022-Planta.pdf">PDF</a>
+Ruan, J. and <b>Yi, P.</b> (2022). Exogenous 6-benzylaminopurine inhibits tip growth and cytokinesis via regulating actin dynamics in the moss <I>Physcomitrium patens</I>. <b>Planta</b> 256:1. <a href="http://psyi.github.io/files/2022-Planta.pdf">PDF</a>
 
 <b>Yi, P.</b> and Goshima, G. (2022). Division site determination during asymmetric cell division in plants. <b>Plant Cell</b> 34, 2120-2139. <a href="http://psyi.github.io/files/2022-PC.pdf">PDF</a>
 
