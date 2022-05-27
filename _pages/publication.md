@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Ruan, J. and <b>Yi, P.</b> (2022). Exogenous 6-benzylaminopurine inhibits tip growth and cytokinesis via regulating actin dynamics in the moss <I>Physcomitrium patens</I>. Planta 256:1. <a href="http://psyi.github.io/files/2022-Planta.pdf">PDF</a>
+
 <b>Yi, P.</b> and Goshima, G. (2022). Division site determination during asymmetric cell division in plants. <b>Plant Cell</b> 34, 2120-2139. <a href="http://psyi.github.io/files/2022-PC.pdf">PDF</a>
 
 Li, D., Liu, Y., <b>Yi, P.</b>, Zhu, Z., Li, W., Zhang, Q.C., Li, J.B., and Ou, G. (2021). RNA editing restricts hyperactive ciliary kinases. <b>Science</b> 373, 984-991. <a href="http://psyi.github.io/files/2021-Science.pdf">PDF</a>
