@@ -9,5 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<b>May 26, 2022</b> <br>
+Our work on the inhibitory effects of exogenous cytokinins during moss development is published in Planta.
+
 <b>Feb 25, 2022</b> <br>
-Our review paper published in The Plant Cell is online now!
+Our review paper on asymmetric cell division is published in The Plant Cell.
