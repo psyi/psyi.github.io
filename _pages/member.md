@@ -15,6 +15,4 @@ LAI, Linyu (赖邻宇)，Graduate student (2021-09 to present)   <br>
 
 RUAN, Jingtong (阮静童)，Graduate student (2021-09 to present)   <br>
 
----
-
 OU, Hongxin (欧宏鑫)，Undergraduate student (2021-03 to 2022-06)<br>
