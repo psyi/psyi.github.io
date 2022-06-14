@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>June 8</b> <br>
+<b>June 8, 2022</b> <br>
 Hongxin has graduated from SCU and will go to Tsinghua University for PhD study.
 
 <b>May 26, 2022</b> <br>
