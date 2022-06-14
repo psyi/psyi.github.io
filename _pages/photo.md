@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b> 2022-06-08 Congratulations on Hongxin's graduation. </b> He is going to Tsinghua University for graduate studies.
+<b> 2022-06-08 Congratulations on Hongxin's graduation. </b>
 
 <img src='/images/20220608-Hongxin1.jpg' width='50%' height='50%'>
 
