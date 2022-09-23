@@ -38,7 +38,7 @@ Peishan Yi, PhD
 
 <b>Funding</b>
 
-01/2022 - 12/2024, National Natural Science Foundation of China for Young Scientists <br>
+01/2022 - 12/2024, National Natural Science Foundation of China<br>
   Grant No. 32100273
 
 01/2022 - 12/2023, The Innovative Research Program from SCU <br>
