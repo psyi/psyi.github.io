@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Ou, H., and <b>Yi, P.</b> (2022). ROP GTPase-dependent polarity establishment during tip growth in plants. <b>New Phytol 236: 49-57.</b> doi: 10.1111/nph.18373. <a href="http://psyi.github.io/files/2022-NP.pdf">PDF</a>
+Lai, L., Ruan, J., Xiao, C., and <b>Yi, P.</b> (2023). The putative myristoylome of Physcomitrium patens reveals conserved features of myristoylation in basal land plants. <b>Plant Cell Rep</b>. doi: 10.1007/s00299-023-03016-7 <a href="http://psyi.github.io/files/2023-PCRE.pdf">PDF</a>
+
+Ou, H., and <b>Yi, P.</b> (2022). ROP GTPase-dependent polarity establishment during tip growth in plants. <b>New Phytol</b> 236: 49-57. <a href="http://psyi.github.io/files/2022-NP.pdf">PDF</a>
 
 Ruan, J. and <b>Yi, P.</b> (2022). Exogenous 6-benzylaminopurine inhibits tip growth and cytokinesis via regulating actin dynamics in the moss <I>Physcomitrium patens</I>. <b>Planta</b> 256: 1. <a href="http://psyi.github.io/files/2022-Planta.pdf">PDF</a> (Cover Story)
 
