@@ -28,11 +28,11 @@ LV，Ruohan (吕若晗), 2023-09 to present  <br>
 
 <b>Undergraduate student</b>
 
-GUO, Caiwan (郭才琬), Undergraduate student (2022-10 to present)  <br>
+GUO, Caiwan (郭才琬), 2022-10 to present  <br>
 
-JIANG, Lili (蒋立莉), Undergraduate student (2022-10 to present)  <br>
+JIANG, Lili (蒋立莉), 2022-10 to present  <br>
 
 
 <b>Former members</b>
 
-OU, Hongxin (欧宏鑫),Undergraduate student (2021-03 to 2022-06)<br>
+OU, Hongxin (欧宏鑫), Undergraduate student (2021-03 to 2022-06)<br>
