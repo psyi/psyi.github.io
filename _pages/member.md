@@ -8,15 +8,31 @@ redirect_from:
 ---
 
 {% include base_path %}
-YI, Peishan (易培珊)，Group leader <br>
+<b>Group leader</b>
 
-LAI, Linyu (赖邻宇)，Graduate student (2021-09 to present)   <br>
+YI, Peishan (易培珊)  <br>
 
-RUAN, Jingtong (阮静童)，Graduate student (2021-09 to present)   <br>
 
-YIN, Zihan (尹梓涵)，Graduate student (2022-09 to present)  <br>
+<b>Graduate student</b>
+
+LAI, Linyu (赖邻宇), 2021-09 to present   <br>
+
+RUAN, Jingtong (阮静童), 2021-09 to present   <br>
+
+YIN, Zihan (尹梓涵), 2022-09 to present  <br>
+
+TIAN, Haoyu (田皓予), 2023-09 to present  <br>
+
+LV，Ruohan (吕若晗), 2023-09 to present  <br>
+
+
+<b>Undergraduate student</b>
+
+GUO, Caiwan (郭才琬), Undergraduate student (2022-10 to present)  <br>
+
+JIANG, Lili (蒋立莉), Undergraduate student (2022-10 to present)  <br>
 
 
 <b>Former members</b>
 
-OU, Hongxin (欧宏鑫)，Undergraduate student (2021-03 to 2022-06)<br>
+OU, Hongxin (欧宏鑫),Undergraduate student (2021-03 to 2022-06)<br>

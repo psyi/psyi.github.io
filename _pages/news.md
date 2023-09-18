@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<b> Sept 23, 2022</b> <br>
+<b> Sept 11, 2023</b> <br>
+Ruohan and Haoyu joined the lab.
+
+<b> Oct 11, 2022</b> <br>
+Caiwan and Lili joined the lab.
+
+<b> Sept 12, 2022</b> <br>
 Zihan joined the lab.
 
 <b>June 8, 2022</b> <br>
