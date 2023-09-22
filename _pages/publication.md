@@ -16,7 +16,7 @@ Lai, L., Ruan, J., Xiao, C., and <b>Yi, P.</b> (2023). The putative myristoylome
 
 Ou, H., and <b>Yi, P.</b> (2022). ROP GTPase-dependent polarity establishment during tip growth in plants. <b>New Phytol</b> 236: 49-57. <a href="http://psyi.github.io/files/2022-NP.pdf">PDF</a> <a href="https://doi.org/10.1111/nph.18373">web link</a>
 
-Ruan, J. and <b>Yi, P.</b> (2022). Exogenous 6-benzylaminopurine inhibits tip growth and cytokinesis via regulating actin dynamics in the moss <I>Physcomitrium patens</I>. <b>Planta</b> 256: 1. <a href="http://psyi.github.io/files/2022-Planta.pdf">PDF</a> <a href="https://doi.org/10.1007/s00425-022-03914-2">web link</a> (Cover Story)
+Ruan, J. and <b>Yi, P.</b> (2022). Exogenous 6-benzylaminopurine inhibits tip growth and cytokinesis via regulating actin dynamics in the moss <I>Physcomitrium patens</I>. <b>Planta</b> 256: 1. (Cover Story) <a href="http://psyi.github.io/files/2022-Planta.pdf">PDF</a> <a href="https://doi.org/10.1007/s00425-022-03914-2">web link</a>
 
 <b>Yi, P.</b> and Goshima, G. (2022). Division site determination during asymmetric cell division in plants. <b>Plant Cell</b> 34: 2120-2139. <a href="http://psyi.github.io/files/2022-PC.pdf">PDF</a> <a href="https://doi.org/10.1093/plcell/koac069">web link</a>
 
