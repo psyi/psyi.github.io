@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Ruan, J.#, Lai, L.#, Ou, H., and <b>Yi, P.</b> (2023). Two subtypes of GTPase-activating proteins coordinate tip growth and cell size regulation in <I>Physcomitrium patens</I>. <b>Nat Commun</b> 13: 2072. (# co-first author) <a href="http://psyi.github.io/files/2023-NC.pdf">PDF</a> / <a href="https://www.nature.com/articles/s41467-023-42879-y">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/2023.06.15.545175v2">preprint</a>
+Ruan, J.#, Lai, L.#, Ou, H., and <b>Yi, P.</b> (2023). Two subtypes of GTPase-activating proteins coordinate tip growth and cell size regulation in <I>Physcomitrium patens</I>. <b>Nat Commun</b> 14: 7084. (# co-first author) <a href="http://psyi.github.io/files/2023-NC.pdf">PDF</a> / <a href="https://www.nature.com/articles/s41467-023-42879-y">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/2023.06.15.545175v2">preprint</a>
 
 Lai, L., Ruan, J., Xiao, C., and <b>Yi, P.</b> (2023). The putative myristoylome of <I>Physcomitrium patens</I> reveals conserved features of myristoylation in basal land plants. <b>Plant Cell Rep</b> 42:1107-1124. <a href="http://psyi.github.io/files/2023-PCRE.pdf">PDF</a> / <a href="https://doi.org/10.1007/s00299-023-03016-7">web link</a>
 
