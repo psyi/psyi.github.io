@@ -38,17 +38,19 @@ Peishan Yi, PhD
 
 <b>Funding</b>
 
+10/2018 - 09/2020, Long-term Postdoctoral Fellowship from The Human Frontier Science Program <br>
+  Grant No. LT000611/2018-L
+
+01/2022 - 12/2023, Innovative Research Program from SCU <br>
+  Grant No. 2022SCUH0010
+
 01/2022 - 12/2024, National Natural Science Foundation of China<br>
   Grant No. 32100273
 
-01/2022 - 12/2023, The Innovative Research Program from SCU <br>
-  Grant No. 2022SCUH0010
+01/2023 - 12/2025, Youth Science and Technology Leading Talent Cultivation Project from SCU<br>
 
-01/2021 - 12/2023, The Start-up Grant from SCU <br>
-  Grant No. 1082204112609
-
-10/2018 - 09/2020, The Long-term Postdoctoral Fellowship from The Human Frontier Science Program <br>
-  Grant No. LT000611/2018-L
+01/2023 - 12/2026, National Natural Science Foundation of China<br>
+  Grant No. 32270776
 
 
   
