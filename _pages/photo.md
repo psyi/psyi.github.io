@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<b> 2023-11-07 Before lab renovation. </b> Left to right: Ruohan, Jingtong, Linyu, Zihan, Peishan, Haoyu
+
+<img src='/images/20231107-lab-renovation.jpg'>
+
 <b> 2023-03-31 Xinglong Lake. </b> Left to right: Zihan, Linyu, Jingtong, Peishan, Yuxuan
 
 <img src='/images/20230331-xinglonghu.webp' width='50%' height='50%'>

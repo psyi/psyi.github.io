@@ -18,7 +18,7 @@ Location
 Room A711, College of Life Sciences <br>
 Wangjiang Campus, Sichuan University <br>
 No.24 South Section 1, Yihuan Road, Wuhou District <br>
-Chengdu, Sichuan 610065, P. R. China
+Chengdu, Sichuan 610064, P. R. China
 
 Direction
 ======
