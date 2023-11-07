@@ -21,11 +21,11 @@ Ruan, J. and <b>Yi, P.</b> (2022). Exogenous 6-benzylaminopurine inhibits tip gr
 
 Li, D., Liu, Y., <b>Yi, P.</b>, Zhu, Z., Li, W., Zhang, Q.C., Li, J.B., and Ou, G. (2021). RNA editing restricts hyperactive ciliary kinases. <b>Science</b> 373: 984-991. <a href="http://psyi.github.io/files/2021-Science.pdf">PDF</a> / <a href="https://doi.org/10.1126/science.abd8971">web link</a>
 
-<b>Yi, P.</b> and Goshima, G. (2020). Transient cotransformation of CRISPR/Cas9 and oligonucleotide templates enables efficient editing of target loci in <i>Physcomitrella patens</i>. <b>Plant Biotechnol J</b> 18: 599-601. <a href="http://psyi.github.io/files/2020-PBJ.pdf">PDF</a> / <a href="https://doi.org/10.1111/pbi.13238">web link</a>
+<b>Yi, P.</b> and Goshima, G. (2020). Transient cotransformation of CRISPR/Cas9 and oligonucleotide templates enables efficient editing of target loci in <i>Physcomitrella patens</i>. <b>Plant Biotechnol J</b> 18: 599-601. <a href="http://psyi.github.io/files/2020-PBJ.pdf">PDF</a> / <a href="https://doi.org/10.1111/pbi.13238">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/643692">preprint</a>
 
 <b>Yi, P.</b> and Goshima, G. (2020). Rho of Plants GTPases and Cytoskeletal Elements Control Nuclear Positioning and Asymmetric Cell Division during <i>Physcomitrella patens</i> Branching. <b>Curr Biol</b> 30: 2860-2868. <a href="http://psyi.github.io/files/2020-CB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.cub.2020.05.022">web link</a>
 
-<b>Yi, P.</b>, Xie, C., and Ou, G. (2018). The kinases male germ cell-associated kinase and cell cycle-related kinase regulate kinesin-2 motility in <i>Caenorhabditis elegans</i> neuronal cilia. <b>Traffic</b> 19: 522-535. <a href="http://psyi.github.io/files/2018-Traffic.pdf">PDF</a> / <a href="https://doi.org/10.1111/tra.12572">web link</a>
+<b>Yi, P.</b>, Xie, C., and Ou, G. (2018). The kinases male germ cell-associated kinase and cell cycle-related kinase regulate kinesin-2 motility in <i>Caenorhabditis elegans</i> neuronal cilia. <b>Traffic</b> 19: 522-535. <a href="http://psyi.github.io/files/2018-Traffic.pdf">PDF</a> / <a href="https://doi.org/10.1111/tra.12572">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/209221">preprint</a>
 
 <b>Yi, P.</b> and Goshima, G. (2018). Microtubule nucleation and organization without centrosomes. <b>Curr Opin Plant Biol</b> 46: 1-7. <a href="http://psyi.github.io/files/2018-COPB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.pbi.2018.06.004">web link</a>
 
