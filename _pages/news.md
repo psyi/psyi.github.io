@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b> Nov 7, 2023 </b> <br>
+<b> Nov 8, 2023 </b> <br>
 The lab moved out and will be renovated in a few months.
 
 <b> Sept 18, 2023</b> <br>
