@@ -11,7 +11,7 @@ redirect_from:
 
 <b> 2023-11-07 Before lab renovation. </b> Left to right: Ruohan, Jingtong, Linyu, Zihan, Peishan, Haoyu
 
-<img src='/images/20231107-lab-renovation.jpg'>
+<img src='/images/20231107-lab-renovation.jpg' width='50%' height='50%'>
 
 <b> 2023-03-31 Xinglong Lake. </b> Left to right: Zihan, Linyu, Jingtong, Peishan, Yuxuan
 
