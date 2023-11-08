@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <b> Nov 8, 2023 </b> <br>
-The lab moved out and will return after A building renovation in a few months.
+The laboratory has temporarily relocated and will return in a few months following the renovation of Building A.
 
 <b> Sept 18, 2023</b> <br>
 Ruohan and Haoyu joined the lab.
