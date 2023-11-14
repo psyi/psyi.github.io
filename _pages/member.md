@@ -30,7 +30,7 @@ LV，Ruohan (吕若晗), 2023-09 to present  <br>
 
 GUO, Caiwan (郭才琬), 2022-10 to present  <br>
 
-JIANG, Lili (蒋立莉), 2022-10 to present  <br>
+JIANG, Lili (蒋丽莉), 2022-10 to present  <br>
 
 
 <b>Former members</b>
