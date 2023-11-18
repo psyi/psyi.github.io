@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} <br>
+{% include base_path %}
 
 # co-first author; * corresponding author
 
