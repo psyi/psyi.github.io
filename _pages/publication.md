@@ -27,7 +27,7 @@ Li, D., Liu, Y., <b>Yi, P.</b>, Zhu, Z., Li, W., Zhang, Q.C., Li, J.B., and Ou, 
 
 <b>Yi, P.*</b> and Goshima, G. (2020). Rho of Plants GTPases and Cytoskeletal Elements Control Nuclear Positioning and Asymmetric Cell Division during <i>Physcomitrella patens</i> Branching. <b>Curr Biol</b> 30: 2860-2868. <a href="http://psyi.github.io/files/2020-CB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.cub.2020.05.022">web link</a>
 
-<b>Yi, P.</b>, Xie, C., and Ou, G.* (2018). The kinases male germ cell-associated kinase and cell cycle-related kinase regulate kinesin-2 motility in <i>Caenorhabditis elegans</i> neuronal cilia. <b>Traffic</b> 19: 522-535. <a href="http://psyi.github.io/files/2018-Traffic.pdf">PDF</a> / <a href="https://doi.org/10.1111/tra.12572">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/209221v1">preprint</a>
+<b>Yi, P.</b>, Xie, C., and Ou, G.* (2018). The kinases male germ cell-associated kinase and cell cycle-related kinase regulate kinesin-2 motility in <i>Caenorhabditis elegans</i> neuronal cilia. <b>Traffic</b> 19: 522-535. <a href="http://psyi.github.io/files/2018-Traffic.pdf">PDF</a> / <a href="https://doi.org/10.1111/tra.12572">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/209221v1">preprint</a> <br>
 
 <b>Yi, P.*</b> and Goshima, G.* (2018). Microtubule nucleation and organization without centrosomes. <b>Curr Opin Plant Biol</b> 46: 1-7. <a href="http://psyi.github.io/files/2018-COPB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.pbi.2018.06.004">web link</a>
 
