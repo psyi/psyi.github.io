@@ -29,7 +29,7 @@ Li, D., Liu, Y., <b>Yi, P.</b>, Zhu, Z., Li, W., Zhang, Q.C., Li, J.B., and Ou, 
 
 <b>Yi, P.</b>, Xie, C., and Ou, G.* (2018). The kinases male germ cell-associated kinase and cell cycle-related kinase regulate kinesin-2 motility in <i>Caenorhabditis elegans</i> neuronal cilia. <b>Traffic</b> 19: 522-535. <a href="http://psyi.github.io/files/2018-Traffic.pdf">PDF</a> / <a href="https://doi.org/10.1111/tra.12572">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/209221v1">preprint</a>
 
-<b>Yi, P.&ast</b> and Goshima, G.* (2018). Microtubule nucleation and organization without centrosomes. <b>Curr Opin Plant Biol</b> 46: 1-7. <a href="http://psyi.github.io/files/2018-COPB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.pbi.2018.06.004">web link</a>
+<b>Yi, P.&#x002A</b> and Goshima, G.* (2018). Microtubule nucleation and organization without centrosomes. <b>Curr Opin Plant Biol</b> 46: 1-7. <a href="http://psyi.github.io/files/2018-COPB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.pbi.2018.06.004">web link</a>
 
 <b>Yi, P.</b>, Li, W.J., Dong, M.Q., and Ou, G.* (2017). Dynein-Driven Retrograde Intraflagellar Transport Is Triphasic in <i>C. elegans</i> Sensory Cilia. <b>Curr Biol</b> 27: 1448-1461. <a href="http://psyi.github.io/files/2017-CB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.cub.2017.04.015">web link</a>
 
