@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# co-first author; * corresponding author
+<b>(# co-first author; * corresponding author)</b>
 
 Ruan, J.#, Lai, L.#, Ou, H., and <b>Yi, P.*</b> (2023). Two subtypes of GTPase-activating proteins coordinate tip growth and cell size regulation in <I>Physcomitrium patens</I>. <b>Nat Commun</b> 14: 7084. <a href="http://psyi.github.io/files/2023-NC.pdf">PDF</a> / <a href="https://www.nature.com/articles/s41467-023-42879-y">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/2023.06.15.545175v2">preprint</a>
 
