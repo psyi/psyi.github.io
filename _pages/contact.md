@@ -18,5 +18,5 @@ No.24 South Section 1, Yihuan Road, Wuhou District <br>
 Chengdu, Sichuan 610064, P. R. China
 
 <b>Direction</b> <br>
-Google map: <a href="https://goo.gl/maps/pTLcvn6fzi8dVEtXA">https://goo.gl/maps/pTLcvn6fzi8dVEtXA</a> <br>
+Google map: <a href="https://goo.gl/maps/pTLcvn6fzi8dVEtXA">https://goo.gl/maps/pTLcvn6fzi8dVEtXA</a><br>
 Baidu map: <a href="https://j.map.baidu.com/01/nN7c">https://j.map.baidu.com/01/nN7c</a>
