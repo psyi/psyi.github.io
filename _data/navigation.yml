@@ -34,5 +34,8 @@ main:
   - title: "Contact"
     url: /contact/
     
+  - title: "External links"
+    url: /elinks/
+
 #  - title: "Guide"
 #    url: /markdown/
