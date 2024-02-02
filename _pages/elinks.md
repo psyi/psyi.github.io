@@ -10,11 +10,11 @@ redirect_from:
 
 <b>Genomes and Sequences:</b>
 
-<a href="https://phytozome-next.jgi.doe.gov/">Phytozome</a>: plant genomes and sequences
+<a href="https://phytozome-next.jgi.doe.gov/">Phytozome</a>: plant genomes and sequences supported by JGI
 
 <a href="https://bar.utoronto.ca/efp_physcomitrella/cgi-bin/efpWeb.cgi">Physcomitrella eFP Browser</a>: Physcomitrella transcriptomics data 
 
-<a href="http://plants.ensembl.org/index.html">EnsemblPlants</a>: plant genomes and sequences
+<a href="http://plants.ensembl.org/index.html">EnsemblPlants</a>: plant genomes and sequences supported by EMBL-EBL
 
 <a href="https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_search_input.php">PEATmoss</a>: an expression atlas for bryophyte gene expression data
 
