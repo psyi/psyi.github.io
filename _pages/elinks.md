@@ -9,7 +9,6 @@ redirect_from:
 {% include base_path %}
 
 <b>Genomes and Sequences:</b> <br>
-
 <a href="https://phytozome-next.jgi.doe.gov/">Phytozome</a>: plant genomes and sequences supported by JGI <br>
 <a href="https://bar.utoronto.ca/efp_physcomitrella/cgi-bin/efpWeb.cgi">Physcomitrella eFP Browser</a>: Physcomitrella transcriptomics data <br>
 <a href="http://plants.ensembl.org/index.html">EnsemblPlants</a>: plant genomes and sequences supported by EMBL-EBL <br>
