@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Email
+<font size="50%">Email</font>
 ======
 yipeishan[AT]scu.edu.cn (replace [AT] with @)
 

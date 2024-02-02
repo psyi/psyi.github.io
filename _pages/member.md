@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Lab Members"
 permalink: /member/
 author_profile: true
 redirect_from:
