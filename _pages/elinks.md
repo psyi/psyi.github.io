@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "External links"
 permalink: /elinks/
 author_profile: true
 redirect_from:
