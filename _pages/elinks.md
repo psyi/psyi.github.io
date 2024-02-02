@@ -19,15 +19,15 @@ redirect_from:
 
 <b>Molecular Tools and Resources:</b> <br>
 <a href="https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi">Conserved Domain Search</a>: an NCBI tool for conserved domain search <br>
-<a href="http://smart.embl-heidelberg.de/">SMART</a>: a simple modular architechture research tool <br>
-<a href="https://www.ebi.ac.uk/interpro/">InterPro</a>: a searchable database for protein family analysis based on domain architechtures and important sites <br>
+<a href="http://smart.embl-heidelberg.de/">SMART</a>: a simple modular architecture research tool <br>
+<a href="https://www.ebi.ac.uk/interpro/">InterPro</a>: a searchable database for protein family analysis based on domain architectures and important sites <br>
 <a href="https://bioinformatics.ysu.edu/tools/subcell.html">Localization Prediction Tools 1</a>: tools for predicting the subcellular localization of a protein <br>
 <a href="https://www.geneinfinity.org/sp/sp_proteinloc.html">Localization Prediction Tools 2</a>: tools for predicting the subcellular localization of a protein <br>
 <a href="https://www.geneinfinity.org/sp/sp_proteinptmodifs.html">Post-Translational Modification Prediction Tools</a>: tools for predicting post-translational modifications of a protein <br>
 <a href="https://www.megasoftware.net/">MEGA</a>: a tool for molecular evolutionary genetics analysis <br>
 <a href="https://www.jalview.org/">Jalview</a>: a tool for sequence alignment and visualization <br>
 <a href="https://itol.embl.de/">iTOL</a>: an online tool for rendering phylogenetic trees <br>
-<a href="https://imagej.net/software/fiji/">Fiji</a>: a tool for imaging precessing and analysis <br>
+<a href="https://imagej.net/software/fiji/">Fiji</a>: a tool for image processing and analysis <br>
 <a href="https://www.cgl.ucsf.edu/chimera/">Chimera</a>: a tool for protein structure visualization <br>
 <a href="https://www.addgene.org/">Addgene</a>: a non-profit plasmid repository <br>
 <a href="https://sg.idtdna.com/pages/tools/codon-optimization-tool">IDT Codon Optimization</a>: a codon optimization tool (registration and log-in required) <br>
