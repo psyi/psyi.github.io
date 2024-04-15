@@ -10,6 +10,8 @@ redirect_from:
 
 <b>(# co-first author; * corresponding author)</b>
 
+Tian, H., Lv, R., and <b>Yi, P.*</b> (2024). Crosstalk between ROP GTPase signaling and plant hormones. <b>J Exp Bot</b> doi:10.1093/jxb/erae162. <a href="http://psyi.github.io/files/2024-JXB.pdf">PDF</a> / <a href="https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erae162/7645609">web link</a>
+
 Ruan, J., Yin, Z., and <b>Yi, P.*</b> (2024). Effects of fluorescent tags and activity status on the membrane localization of ROP GTPases. <b>Plant Signal Behav</b> 19:2306790. <a href="http://psyi.github.io/files/2024-PSB.pdf">PDF</a> / <a href="https://www.tandfonline.com/doi/full/10.1080/15592324.2024.2306790">web link</a>
 
 Ruan, J.#, Lai, L.#, Ou, H., and <b>Yi, P.*</b> (2023). Two subtypes of GTPase-activating proteins coordinate tip growth and cell size regulation in <I>Physcomitrium patens</I>. <b>Nat Commun</b> 14:7084. <a href="http://psyi.github.io/files/2023-NC.pdf">PDF</a> / <a href="https://www.nature.com/articles/s41467-023-42879-y">web link</a> / <a href="https://www.biorxiv.org/content/10.1101/2023.06.15.545175v3">preprint</a>
