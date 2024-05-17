@@ -10,7 +10,7 @@ redirect_from:
 
 <b> May 17, 2024. Linyu passed her thesis defense! Congratulations! </b>
 
-<img src='/images/20240517-lly.jpg' width='50%' height='50%'>
+<img src='/images/20240517-lly.webp' width='50%' height='50%'>
 
 <b> Nov 19, 2023. Visiting Sanxingdui Museum. </b> Left to right: Haoyu, Ruohan, Peishan, Linyu, Jingtong, Zihan
 
