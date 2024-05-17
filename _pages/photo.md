@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b> 17 May, 2024. Linyu passed her thesis defense! Congratulations! </b>
+<b> May 17, 2024. Linyu passed her thesis defense! Congratulations! </b>
 
 <img src='/images/20240517-lly.jpg' width='50%' height='50%'>
 
