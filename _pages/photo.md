@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+<b> 17 May, 2024. Linyu passed her thesis defense! Congratulations! </b>
+
+<img src='/images/20240517-lly.jpg' width='50%' height='50%'>
+
 <b> Nov 19, 2023. Visiting Sanxingdui Museum. </b> Left to right: Haoyu, Ruohan, Peishan, Linyu, Jingtong, Zihan
 
 <img src='/images/20231119-xanxingdui.webp' width='50%' height='50%'>

@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+<b> 17 May, 2024 </b> <br>
+
+Linyu passed her thesis defense! Congratulations!
+
 <b> Nov 8, 2023 </b> <br>
 The laboratory has temporarily relocated and will return in a few months following the renovation of Building A.
 
