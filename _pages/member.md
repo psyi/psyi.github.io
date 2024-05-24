@@ -22,7 +22,7 @@ YIN, Zihan (尹梓涵), 2022-09 to present  <br>
 
 TIAN, Haoyu (田皓予), 2023-09 to present  <br>
 
-LV，Ruohan (吕若晗), 2023-09 to present  <br>
+LYU，Ruohan (吕若晗), 2023-09 to present  <br>
 
 
 <b>Undergraduate student</b>
