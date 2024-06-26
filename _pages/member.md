@@ -32,9 +32,9 @@ DAI, Lu (戴璐), 2023-10 to present <br>
 AN, Tiantian (安甜天), 2023-10 to present <br>
 
 
-<b>*** Former members ***</b>
+<b> * * * Former members * * * </b>
 
-LAI, Linyu (赖邻宇), master's student (021-09 to 2024-06) <br>
+LAI, Linyu (赖邻宇), master's student (2021-09 to 2024-06) <br>
 
 GUO, Caiwan (郭才琬), undergraduate student (2022-10 to 2024-06) <br>
 
