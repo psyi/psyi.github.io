@@ -8,9 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-June 26, 2024. Congratulations on Linyu's graduation. Left to right: Ruohan, Zihan, Linyu, Peishan, Jingtong, Haoyu
+June 26, 2024. Celebrating Linyu's graduation. Left to right: Ruohan, Zihan, Linyu, Peishan, Jingtong, Haoyu
 
-<img src='/images/20240626-llygraduation' width='25%' height='25%'> 
+<img src='/images/20240626-llygraduation.webp' width='25%' height='25%'> 
 
 June 4, 2024. Jingtong won the Best Poster Award for graduate students at the ICMBS meeting!
 
@@ -32,7 +32,7 @@ Mar 31, 2023. Visiting Xinglong Lake.  Left to right: Zihan, Linyu, Jingtong, Pe
 
 <img src='/images/20230331-xinglonghu.webp' width='25%' height='25%'>
 
-Jun 8, 2022. Congratulations on Hongxin's graduation.
+Jun 8, 2022. Celebrating Hongxin's graduation.
 
 <img src='/images/20220608-Hongxin1.webp' width='25%' height='25%'>
 
