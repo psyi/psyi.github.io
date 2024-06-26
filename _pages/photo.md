@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+June 26, 2024. Congratulations on Linyu's graduation. Left to right: Ruohan, Zihan, Linyu, Peishan, Jingtong, Haoyu
+
+<img src='/images/20240626-llygraduation' width='25%' height='25%'> 
+
 June 4, 2024. Jingtong won the Best Poster Award for graduate students at the ICMBS meeting!
 
 <img src='/images/20240604-icmbs.webp' width='25%' height='25%'>
