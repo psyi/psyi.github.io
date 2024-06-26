@@ -20,7 +20,7 @@ YIN, Zihan (尹梓涵), 2022-09 to present <br>
 
 TIAN, Haoyu (田皓予), 2023-09 to present <br>
 
-LYU，Ruohan (吕若晗), 2023-09 to present <br>
+LYU, Ruohan (吕若晗), 2023-09 to present <br>
 
 
 <b>Undergraduate student</b>
@@ -32,7 +32,7 @@ DAI, Lu (戴璐), 2023-10 to present <br>
 AN, Tiantian (安甜天), 2023-10 to present <br>
 
 
-<b>Former members</b>
+<b>*** Former members ***</b>
 
 LAI, Linyu (赖邻宇), master's student (021-09 to 2024-06) <br>
 
