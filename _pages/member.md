@@ -40,4 +40,4 @@ GUO, Caiwan (郭才琬), undergraduate student (2022-10 to 2024-06) <br>
 
 JIANG, Lili (蒋丽莉), undergraduate student (2022-10 to 2024-06) <br>
 
-OU, Hongxin (欧宏鑫), Undergraduate student (2021-03 to 2022-06) <br>
+OU, Hongxin (欧宏鑫), undergraduate student (2021-03 to 2022-06) <br>
