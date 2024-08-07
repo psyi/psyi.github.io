@@ -25,7 +25,7 @@ redirect_from:
 <a href="https://www.geneinfinity.org/sp/sp_proteinloc.html">Localization Prediction Tools 2</a>: tools for predicting the subcellular localization of a protein. <br>
 <a href="https://www.geneinfinity.org/sp/sp_proteinptmodifs.html">Post-Translational Modification Prediction Tools</a>: tools for predicting post-translational modifications of a protein. <br>
 <a href="https://www.megasoftware.net/">MEGA</a>: a tool for molecular evolutionary genetics analysis. <br>
-<a href="https://www.jalview.org/">Jalview</a>: a tool for sequence alignment and visualization <br>
+<a href="https://www.jalview.org/">Jalview</a>: a tool for sequence alignment and visualization. <br>
 <a href="https://itol.embl.de/">iTOL</a>: an online tool for rendering phylogenetic trees. <br>
 <a href="https://imagej.net/software/fiji/">Fiji</a>: a tool for image processing and analysis. <br>
 <a href="https://www.cgl.ucsf.edu/chimera/">Chimera</a>: a tool for protein structure visualization. <br>
