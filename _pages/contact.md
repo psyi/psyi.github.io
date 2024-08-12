@@ -12,7 +12,7 @@ redirect_from:
 yipeishan[AT]scu.edu.cn (replace [AT] with @)
 
 <b>Location</b> <br>
-Room A711, College of Life Sciences <br>
+Room A501, College of Life Sciences <br>
 Wangjiang Campus, Sichuan University <br>
 No.24 South Section 1, Yihuan Road, Wuhou District <br>
 Chengdu, Sichuan 610064, P. R. China

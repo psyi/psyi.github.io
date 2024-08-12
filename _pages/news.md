@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+<b> Aug 5, 2024 </b> <br>
+Our laboratory is back and now located at A501 and A508!
+
 <b> May 17, 2024 </b> <br>
 Linyu passed her thesis defense! Congratulations!
 
