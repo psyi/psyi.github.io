@@ -11,6 +11,10 @@ redirect_from:
 <b> Aug 5, 2024 </b> <br>
 Our laboratory is back and now located at A501 and A508!
 
+<b>June, 2024</b> <br>
+Caiwan graduated from SCU and is going to Changping Laboratory for PhD study supported by a joint program with Peking University.
+Lili graduated from SCU and is going to Zhejiang University for PhD study.
+
 <b> May 17, 2024 </b> <br>
 Linyu passed her thesis defense! Congratulations!
 
