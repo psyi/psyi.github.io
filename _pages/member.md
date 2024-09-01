@@ -29,8 +29,6 @@ ZHANG, Zongbo (张综博), 2023-10 to present <br>
 
 DAI, Lu (戴璐), 2023-10 to present <br>
 
-AN, Tiantian (安甜天), 2023-10 to present <br>
-
 
 <b> * * * Former members * * * </b>
 
