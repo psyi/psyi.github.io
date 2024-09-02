@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+Aug 25-29, 2024. We were attending the National Academic Annual Conference of Chinese Society for Plant Biology 2024 (CSPB-2024) at Century City Conference Centre in Chengdu, being part of the host organizor from our department.
+
+<img src='/images/20240828-CSPB.jpeg' width='25%' height='25%'> 
+
 June 26, 2024. Celebrating Linyu's graduation. Left to right: Ruohan, Zihan, Linyu, Peishan, Jingtong, Haoyu
 
 <img src='/images/20240626-llygraduation.webp' width='25%' height='25%'> 
