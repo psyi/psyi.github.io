@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Aug 25-29, 2024.</b> We were attending the National Academic Annual Conference of Chinese Society for Plant Biology 2024 (CSPB-2024) at Century City Conference Centre in Chengdu, being part of the host organizor from our department.
+<b>Aug 25-29, 2024.</b> We were attending the National Academic Annual Conference of Chinese Society for Plant Biology 2024 (CSPB-2024) at Century City Conference Centre in Chengdu, being part of the host organizor from our department. Left to right: Ruohan, Zihan, Linyu, Jingtong, Peishan
 
 <img src='/images/20240828-CSPB.jpeg' width='25%' height='25%'> 
 
