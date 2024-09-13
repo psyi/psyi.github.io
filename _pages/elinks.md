@@ -11,7 +11,6 @@ redirect_from:
 <b>Genomes and Sequences:</b> <br>
 <a href="https://phytozome-next.jgi.doe.gov/">Phytozome</a>: plant genomes and sequences supported by JGI. <br>
 <a href="https://bar.utoronto.ca/efp_physcomitrella/cgi-bin/efpWeb.cgi">Physcomitrella eFP Browser</a>: Physcomitrella transcriptomics data. <br>
-<a href="http://plants.ensembl.org/index.html">EnsemblPlants</a>: plant genomes and sequences supported by EMBL-EBL. <br>
 <a href="https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_search_input.php">PEATmoss</a>: an expression atlas for bryophyte gene expression data. <br>
 <a href="https://moss.nibb.ac.jp/">PHYSCObase</a>: a database for Physcomitrella sequences and protocols. <br>
 <a href="https://www.uniprot.org/">Uniprot</a>: protein sequences and annotations. <br>
@@ -40,3 +39,9 @@ redirect_from:
 <a href="http://imoss.org/index.php">iMOSS</a>: the international molecular moss science society. <br>
 <a href="https://www.arabidopsis.org/">TAIR</a>: the Arabidopsis information resource database. <br>
 <a href="https://marchantia.info/">MarpolBase</a>: the genome database for Marchantia polymorpha. <br>
+<a href="https://www.yeastgenome.org/">Saccharomyces Genome Database</a>: the genome database for the budding yeast Saccharomyces cerevisiae. <br>
+<a href="https://wormbase.org/">WormBase</a>: the genome database for Caenorhabditis elegans and related nematodes. <br>
+<a href="https://flybase.org/">FlyBase</a>: the genome database for the fruit fly Drosophila melanogaster and related species. <br>
+<a href="https://www.informatics.jax.org/">Mouse Genome Informatics</a>: the international database resource for the laboratory mouse. <br>
+<a href="http://plants.ensembl.org/index.html">EnsemblPlants</a>: plant genomes and sequences supported by EMBL-EBL. <br>
+<a href="https://ensemblgenomes.org/">Ensembl Genomes</a>: genomes and sequences of Metazoa, Plants, Protists, Fungi, and Bacteria supported by EMBL-EBL. <br>
