@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+<b> Sept 10, 2024 </b> <br>
+Yirong and Ying joined the lab.
+
 <b> Aug 5, 2024 </b> <br>
 Our laboratory is back and now located at A501 and A508!
 
