@@ -22,6 +22,10 @@ TIAN, Haoyu (田皓予), 2023-09 to present <br>
 
 LYU, Ruohan (吕若晗), 2023-09 to present <br>
 
+GAN, Yirong (甘义榕), 2024-09 to present <br>
+
+CHEN, Ying (陈颖), 2024-09 to present <br>
+
 
 <b>Undergraduate student</b>
 
