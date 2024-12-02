@@ -12,8 +12,8 @@ redirect_from:
 yipeishan[AT]scu.edu.cn (replace [AT] with @)
 
 <b>研究生招生名额剩余情况：</b> <br>
-2025级硕士：0人
-2025级博士：1人
+2025级硕士：0人 <br>
+2025级博士：1人 <br>
 更新日期：2024-11-02
 
 <b>Location</b> <br>
