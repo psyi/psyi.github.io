@@ -27,7 +27,7 @@ redirect_from:
 
 <b>Molecular Tools and Resources:</b> <br>
 <a href="https://www.uniprot.org/">Uniprot</a>: protein sequences and annotations. <br>
-<a href="https://www.rcsb.org/">PDB</a>: protein structure data bank.
+<a href="https://www.rcsb.org/">PDB</a>: protein structure data bank. <br>
 <a href="https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi">Conserved Domain Search</a>: an NCBI tool for conserved domain search. <br>
 <a href="http://smart.embl-heidelberg.de/">SMART</a>: a simple modular architecture research tool. <br>
 <a href="https://www.ebi.ac.uk/interpro/">InterPro</a>: a searchable database for protein family analysis based on domain architectures and important sites. <br>
@@ -49,7 +49,7 @@ redirect_from:
 <b>Others:</b> <br>
 <a href="https://useast.ensembl.org/index.html">Ensembl Vertebrates</a>: genomes and sequences of vertebrates supported by EMBL-EBL. <br>
 <a href="https://ensemblgenomes.org/">Ensembl Genomes</a>: genomes and sequences of Metazoa, Plants, Protists, Fungi, and Bacteria supported by EMBL-EBL. <br>
-<a href="http://plants.ensembl.org/index.html">EnsemblPlants</a>: plant genomes and sequences supported by EMBL-EBL. <br>
+<a href="http://plants.ensembl.org/index.html">Ensembl Plants</a>: plant genomes and sequences supported by EMBL-EBL. <br>
 <a href="https://www.yeastgenome.org/">Saccharomyces Genome Database</a>: the genome database for the budding yeast Saccharomyces cerevisiae. <br>
 <a href="https://wormbase.org/">WormBase</a>: the genome database for Caenorhabditis elegans and related nematodes. <br>
 <a href="https://flybase.org/">FlyBase</a>: the genome database for the fruit fly Drosophila melanogaster and related species. <br>
