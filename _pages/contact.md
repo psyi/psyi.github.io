@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 <b>Email</b> <br>
-yipeishan[AT]scu.edu.cn (replace [AT] with @)
+yipeishan[A.T]scu.edu.cn (replace [A.T] with @)
 
 <b>研究生招生名额剩余情况：</b> <br>
 2025级硕士：0人 <br>
