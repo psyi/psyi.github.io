@@ -11,10 +11,16 @@ redirect_from:
 <b>Email</b> <br>
 yipeishan[A.T]scu.edu.cn (replace [A.T] with @)
 
-<b>研究生招生名额剩余情况：</b> <br>
+<b>课题组招聘岗位：</b> <br>
+博士后：1人
+科研助理：1人
+招聘要求及待遇：https://cbgc.scol.com.cn/news/5782583
+更新日期：2025-02-07
+
+<b>研究生招生名额：</b> <br>
 2025级硕士：0人 <br>
 2025级博士：1人(已有2名意向学生) <br>
-更新日期：2024-12-06
+更新日期：2025-02-07
 
 <b>Location</b> <br>
 Room A501, College of Life Sciences <br>
