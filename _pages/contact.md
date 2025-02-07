@@ -12,9 +12,9 @@ redirect_from:
 yipeishan[A.T]scu.edu.cn (replace [A.T] with @)
 
 <b>课题组招聘岗位：</b> <br>
-博士后：1人
-科研助理：1人
-招聘要求及待遇：https://cbgc.scol.com.cn/news/5782583
+博士后：1人 <br>
+科研助理：1人 <br>
+招聘要求及待遇：<a href="https://cbgc.scol.com.cn/news/5782583">https://cbgc.scol.com.cn/news/5782583</a> <br>
 更新日期：2025-02-07
 
 <b>研究生招生名额：</b> <br>
