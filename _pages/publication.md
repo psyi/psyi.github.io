@@ -10,6 +10,8 @@ redirect_from:
 
 <b>(# co-first author; * corresponding author)</b>
 
+Yin, Z., Y. Gan, Y. Chen, E. Kozgunova and <b>Yi, P.*</b> (2025). The Microtubule Cytoskeleton in Bryophytes. <b>Cytoskeleton (Hoboken)</b>. doi: 10.1002/cm.22009. <a href="http://psyi.github.io/files/2025-CYTO.pdf">PDF</a> / <a href="https://onlinelibrary.wiley.com/doi/10.1002/cm.22009">web link</a>
+
 Tian, H., Lyu, R., and <b>Yi, P.*</b> (2024). Crosstalk between Rho of Plants GTPase signalling and plant hormones. <b>J Exp Bot</b> 75:3778-3796. <a href="http://psyi.github.io/files/2024-JXB.pdf">PDF</a> / <a href="https://academic.oup.com/jxb/article/75/13/3778/7645609">web link</a>
 
 Ruan, J., Yin, Z., and <b>Yi, P.*</b> (2024). Effects of fluorescent tags and activity status on the membrane localization of ROP GTPases. <b>Plant Signal Behav</b> 19:2306790. <a href="http://psyi.github.io/files/2024-PSB.pdf">PDF</a> / <a href="https://www.tandfonline.com/doi/full/10.1080/15592324.2024.2306790">web link</a>
