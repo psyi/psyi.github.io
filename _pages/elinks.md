@@ -44,7 +44,8 @@ redirect_from:
 <a href="https://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html">FASTA Converter</a>: an online tool for converting files into the fasta format and vice versa. <br>
 <a href="https://molbiotools.com/chemicalcalculator.php">Chemical Calculator</a>: an online chemical calculator. <br>
 <a href="https://molbiotools.com/silentmutator.php">Silent Mutator</a>: an online tool for generating synonymous mutations to introduce restriction sites. <br>
-<a href="https://usegalaxy.org/">Galaxy</a>: an open source, web-based platform for data intensive biomedical research. <br>
+<a href="https://usegalaxy.org/">Galaxy Main</a>: an open source, web-based platform for data intensive biomedical research. Main Server <br>
+<a href="https://www.usegalaxy.cn/">Galaxy CN</a>: an open source, web-based platform for data intensive biomedical research. Galaxy China<br>
 
 <b>Others:</b> <br>
 <a href="https://useast.ensembl.org/index.html">Ensembl Vertebrates</a>: genomes and sequences of vertebrates supported by EMBL-EBL. <br>
