@@ -39,9 +39,12 @@ redirect_from:
 <a href="https://itol.embl.de/">iTOL</a>: an online tool for rendering phylogenetic trees. <br>
 <a href="https://imagej.net/software/fiji/">Fiji</a>: a tool for image processing and analysis. <br>
 <a href="https://www.cgl.ucsf.edu/chimera/">Chimera</a>: a tool for protein structure visualization. <br>
+<a href="https://pymol.org/buy.html">PyMol</a>: a tool for protein structure visualization. Educational subscriptions available<br>
 <a href="https://www.addgene.org/">Addgene</a>: a non-profit plasmid repository. <br>
 <a href="https://sg.idtdna.com/pages/tools/codon-optimization-tool">IDT Codon Optimization</a>: a codon optimization tool (registration and log-in required). <br>
 <a href="https://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html">FASTA Converter</a>: an online tool for converting files into the fasta format and vice versa. <br>
+<a href="https://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html">FASTA - Tabular Data Converter 1</a>: an online tool for converting files into the fasta format and vice versa. <br>
+<a href="https://sequenceconversion.bugaco.com/converter/biology/sequences/fasta_to_tab.php">FASTA - Tabular Data Converter 2</a>: an online tool for converting files into the fasta format and vice versa. <br>
 <a href="https://molbiotools.com/chemicalcalculator.php">Chemical Calculator</a>: an online chemical calculator. <br>
 <a href="https://molbiotools.com/silentmutator.php">Silent Mutator</a>: an online tool for generating synonymous mutations to introduce restriction sites. <br>
 <a href="https://usegalaxy.org/">Galaxy Main</a>: an open source, web-based platform for data intensive biomedical research. Main Server <br>
