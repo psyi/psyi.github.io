@@ -10,9 +10,9 @@ redirect_from:
 
 <b>(# co-first author; * corresponding author)</b>
 
-<b>Yi, P.*</b>, G. Ou and W. Li* (2025). Multifaceted regulation of asymmetric cell division by the actin cytoskeleton. <b>Curr Opin Cell Biol</b> 94: 102491. <a href="http://psyi.github.io/files/2025-COCB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.ceb.2025.102491">web link</a>
-
 Yin, Z., Y. Gan, Y. Chen, E. Kozgunova and <b>Yi, P.*</b> (2025). The Microtubule Cytoskeleton in Bryophytes. <b>Cytoskeleton (Hoboken)</b>. doi: 10.1002/cm.22009. <a href="http://psyi.github.io/files/2025-CYTO.pdf">PDF</a> / <a href="https://onlinelibrary.wiley.com/doi/10.1002/cm.22009">web link</a>
+
+<b>Yi, P.*</b>, G. Ou and W. Li* (2025). Multifaceted regulation of asymmetric cell division by the actin cytoskeleton. <b>Curr Opin Cell Biol</b> 94: 102491. <a href="http://psyi.github.io/files/2025-COCB.pdf">PDF</a> / <a href="https://doi.org/10.1016/j.ceb.2025.102491">web link</a>
 
 Tian, H., Lyu, R., and <b>Yi, P.*</b> (2024). Crosstalk between Rho of Plants GTPase signalling and plant hormones. <b>J Exp Bot</b> 75:3778-3796. <a href="http://psyi.github.io/files/2024-JXB.pdf">PDF</a> / <a href="https://academic.oup.com/jxb/article/75/13/3778/7645609">web link</a>
 
