@@ -42,7 +42,7 @@ redirect_from:
 <a href="https://pymol.org/buy.html">PyMol</a>: a tool for protein structure visualization. Educational subscriptions available<br>
 <a href="https://www.addgene.org/">Addgene</a>: a non-profit plasmid repository. <br>
 <a href="https://sg.idtdna.com/pages/tools/codon-optimization-tool">Codon Optimization</a>: a codon optimization tool (registration and log-in required). <br>
-<a href="https://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html">FASTA Converter</a>: an online tool for converting files into the fasta format and vice versa. <br>
+<a href="https://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html">FASTA to Tabular Data Converter 1</a>: an online tool for converting files into the fasta format and vice versa. <br>
 <a href="https://sequenceconversion.bugaco.com/converter/biology/sequences/fasta_to_tab.php">FASTA - Tabular Data Converter 2</a>: an online tool for converting files into the fasta format and vice versa. <br>
 <a href="https://molbiotools.com/chemicalcalculator.php">Chemical Calculator</a>: an online chemical calculator. <br>
 <a href="https://molbiotools.com/silentmutator.php">Silent Mutator</a>: an online tool for generating synonymous mutations to introduce restriction sites. <br>
