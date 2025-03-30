@@ -15,7 +15,7 @@ redirect_from:
 
 <b>Jan 22, 2025.</b> Gathering at HAIDILAO before Chinese New Year! Left to right: Peishan, Jingtong, Ruohan, Zihan, Yirong, Ying.
 
-<img src='/images/20250122-gathering.jpeg' width='25%' height='25%'> 
+<img src='/images/20250122-gathering.jpeg' width='30%' height='30%'> 
 
 <b>Aug 25-29, 2024.</b> We were attending the National Academic Annual Conference of Chinese Society for Plant Biology 2024 (CSPB-2024) at Century City Conference Centre in Chengdu, being part of the host organizor from our department. Left to right: Ruohan, Zihan, Linyu, Jingtong, Peishan.
 
@@ -31,11 +31,11 @@ redirect_from:
 
 <b>May 17, 2024.</b> Linyu passed her thesis defense! Congratulations!
 
-<img src='/images/20240517-lly.webp' width='25%' height='25%'>
+<img src='/images/20240517-lly.jpg' width='25%' height='25%'>
 
 <b>Nov 19, 2023.</b> Visiting Sanxingdui Museum.  Left to right: Haoyu, Ruohan, Peishan, Linyu, Jingtong, Zihan.
 
-<img src='/images/20231119-xanxingdui.webp' width='25%' height='25%'>
+<img src='/images/20231119-xanxingdui.jpg' width='30%' height='30%'>
 
 <b>Nov 7, 2023.</b> In memory of the lab before renovation.  Left to right: Ruohan, Jingtong, Linyu, Zihan, Peishan, Haoyu.
 
