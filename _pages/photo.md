@@ -11,11 +11,11 @@ redirect_from:
 <b>Mar 29, 2025.</b> Spring outing and brophyte collecting in Dujiangyan.
 
 <img src='/images/20250329-dujiangyan.jpg' width='25%' height='25%'> 
-<img src='/images/20250329-moss.jpg' width='25%' height='25%'> 
+<img src='/images/20250329-moss.jpg' width='30%' height='30%'> 
 
 <b>Jan 22, 2025.</b> Gathering at HAIDILAO before Chinese New Year! Left to right: Peishan, Jingtong, Ruohan, Zihan, Yirong, Ying.
 
-<img src='/images/20250122-gathering.jpeg' width='30%' height='30%'> 
+<img src='/images/20250122-gathering.jpeg' width='25%' height='25%'> 
 
 <b>Aug 25-29, 2024.</b> We were attending the National Academic Annual Conference of Chinese Society for Plant Biology 2024 (CSPB-2024) at Century City Conference Centre in Chengdu, being part of the host organizor from our department. Left to right: Ruohan, Zihan, Linyu, Jingtong, Peishan.
 
