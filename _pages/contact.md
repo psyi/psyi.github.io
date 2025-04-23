@@ -15,7 +15,7 @@ yipeishan[A.T]scu.edu.cn (replace [A.T] with @)
 博士后：1人 <br>
 科研助理：1人 <br>
 招聘要求及待遇：<a href="https://cbgc.scol.com.cn/news/5782583">https://cbgc.scol.com.cn/news/5782583</a> <br>
-更新日期：2025-02-07
+更新日期：2025-04-23
 
 <b>研究生招生名额：</b> <br>
 2025级硕士：0人 <br>
