@@ -19,8 +19,8 @@ yipeishan[A.T]scu.edu.cn (replace [A.T] with @)
 
 <b>研究生招生名额：</b> <br>
 2025级硕士：0人 <br>
-2025级博士：1人(已有2名意向学生) <br>
-更新日期：2025-02-07
+2025级博士：1人 <br>
+更新日期：2025-04-23
 
 <b>Location</b> <br>
 Room A501, College of Life Sciences <br>
