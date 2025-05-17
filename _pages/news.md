@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+<b> May 17, 2025 </b> <br>
+Zihan passed her thesis defense! Congratulations!
+
 <b> Sept 10, 2024 </b> <br>
 Yirong and Ying joined the lab.
 
