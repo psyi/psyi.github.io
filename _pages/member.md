@@ -27,8 +27,9 @@ CHEN, Ying (陈颖), 2024-09 to present <br>
 
 <b>Undergraduate student</b>
 
-LI, Mengyin (李梦莹), 2025-07 to present <br>
+LI, Mengying (李梦莹), 2025-07 to present <br>
 
+<br>
 
 <b> * * * Former members * * * </b>
 

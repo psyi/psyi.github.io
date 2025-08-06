@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 <b> Jun 16, 2025 </b> <br>
-Lu and Zongbo passed their thesis defenses! Congratulations!
+Lu and Zongbo passed their thesis defenses! Congratulations! Zongbo will continue his research at Westlake University as a PhD student.
 
 <b> May 17, 2025 </b> <br>
 Zihan passed her thesis defense! Congratulations!
