@@ -15,12 +15,12 @@ yipeishan[A.T]scu.edu.cn (replace [A.T] with @)
 博士后：1人 <br>
 科研助理：1人 <br>
 招聘要求及待遇：<a href="https://cbgc.scol.com.cn/news/5782583">https://cbgc.scol.com.cn/news/5782583</a> <br>
-更新日期：2025-08-06
+更新日期：2025-09-22
 
 <b>研究生招生名额：</b> <br>
 2026级硕士：有 <br>
 2026级博士：有 <br>
-更新日期：2025-08-06
+更新日期：2025-09-22
 
 <b>Location</b> <br>
 Room A501, College of Life Sciences <br>
