@@ -7,6 +7,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+<b> Oct 12-15, 2025 </b> <br>
+We were attending National Congress of Plant Biology 2025 in Changsha, Hunan. Left to right: Ruohan, Jingtong, Peishan.
+
+<img src='/images/20251115-ncpb.jpg' width='25%' height='25%'> 
 
 <b> May 17, 2025 </b> <br>
 Zihan passed her thesis defense! Congratulations!
@@ -22,7 +26,7 @@ Zihan passed her thesis defense! Congratulations!
 
 <img src='/images/20250122-gathering.jpeg' width='30%' height='30%'> 
 
-<b>Aug 25-29, 2024.</b> We were attending the National Academic Annual Conference of Chinese Society for Plant Biology 2024 (CSPB-2024) at Century City Conference Centre in Chengdu, being part of the host organizor from our department. Left to right: Ruohan, Zihan, Linyu, Jingtong, Peishan.
+<b>Aug 25-29, 2024.</b> We were attending National Academic Annual Conference of Chinese Society for Plant Biology 2024 (CSPB 2024) at Century City Conference Centre in Chengdu, being part of the host organizor from our department. Left to right: Ruohan, Zihan, Linyu, Jingtong, Peishan.
 
 <img src='/images/20240828-CSPB.jpeg' width='25%' height='25%'> 
 
