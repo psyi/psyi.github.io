@@ -7,6 +7,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+<b> May 16, 2026 </b> <br>
+Haoyu and Ruohan passed their thesis defenses! Congratulations!
 
 <b> Jun 16, 2025 </b> <br>
 Lu and Zongbo passed their thesis defenses! Congratulations! Zongbo will continue his research at Westlake University as a PhD student.
