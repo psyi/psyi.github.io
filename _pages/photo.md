@@ -10,7 +10,7 @@ redirect_from:
 <b> May 16, 2026 </b> <br>
 Haoyu and Ruohan passed their thesis defenses! Congratulations! Left to right: Haoyu, Peishan, Ruohan.
 
-<img src='/images/2026-grad' width='25%' height='25%'> 
+<img src='/images/2026-grad.jpg' width='25%' height='25%'> 
 
 <b> Oct 12-15, 2025 </b> <br>
 We were attending National Congress of Plant Biology 2025 in Changsha, Hunan. Left to right: Ruohan, Jingtong, Peishan.
