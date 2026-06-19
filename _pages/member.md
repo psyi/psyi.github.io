@@ -16,10 +16,6 @@ YI, Peishan (易培珊)  <br>
 
 RUAN, Jingtong (阮静童), PhD student, 2021-09 to present <br>
 
-LYU, Ruohan (吕若晗), Master's student, 2023-09 to present <br>
-
-TIAN, Haoyu (田皓予), Master's student, 2023-09 to present <br>
-
 GAN, Yirong (甘义榕), Master's student, 2024-09 to present <br>
 
 CHEN, Ying (陈颖), Master's student, 2024-09 to present <br>
@@ -33,9 +29,15 @@ LI, Xiaotong (李筱彤), Master's student, 2025-09 to present <br>
 
 LI, Mengying (李梦莹), 2025-07 to present <br>
 
+LI, Qicong (李奇聪), 2026-06 to present <br>
+
 <br>
 
 <b> * * * Former members * * * </b>
+
+LYU, Ruohan (吕若晗), Master's student, 2023-09 to 2026-06 <br>
+
+TIAN, Haoyu (田皓予), Master's student, 2023-09 to 2026-06 <br>
 
 YIN, Zihan (尹梓涵), Master's student (2022-09 to 2025-06) <br>
 
