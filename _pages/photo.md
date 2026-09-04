@@ -7,6 +7,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+<b> Sept 3, 2026 </b> <br>
+A welcome gathering for new members! front (left to right): Lei, Peishan, Xiaotong, Yirong, Jingtong; back (left to right): Xuelin, Ying, Chunxia, Jiayu, Ziyi.
+
+<img src='/images/20260903.jpg' width='25%' height='25%'> 
+
 <b> May 16, 2026 </b> <br>
 Haoyu and Ruohan passed their thesis defenses! Congratulations! Left to right: Haoyu, Peishan, Ruohan.
 

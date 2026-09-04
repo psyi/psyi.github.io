@@ -7,6 +7,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<b> Aug 27, 2026 </b> <br>
+Chunxia, Lei, Xuelin, and Jiayu joined the lab.
+
 <b> May 16, 2026 </b> <br>
 Haoyu and Ruohan passed their thesis defenses! Congratulations!
 

@@ -24,6 +24,14 @@ YANG, Ziyi (杨子怡), PhD student, 2025-09 to present <br>
 
 LI, Xiaotong (李筱彤), Master's student, 2025-09 to present <br>
 
+GUO, Chunxia (郭春霞), PhD student, 2026-09 to present <br>
+
+TANG, Lei (唐磊), Master's student, 2026-09 to present <br>
+
+ZHANG, Xuelin (张学霖), Master's student, 2026-09 to present <br>
+
+LEI, Jiayu (雷家瑜), Master's student, 2026-09 to present <br>
+
 
 <b>Undergraduate student</b>
 
