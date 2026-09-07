@@ -20,7 +20,7 @@ yipeishan[A.T]scu.edu.cn (replace [A.T] with @)
 <b>研究生招生名额：</b> <br>
 2027级硕士：有 <br>
 2027级博士：有 <br>
-更新日期：2026-5-10
+更新日期：2026-9-1
 
 <b>Location</b> <br>
 Room A501, College of Life Sciences <br>
