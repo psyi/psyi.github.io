@@ -10,7 +10,7 @@ redirect_from:
 
 <b>(# co-first author; * corresponding author)</b>
 
-Ruan, J., Yin, Z., Gan, Y., Jiang, L., Guo, C. and <b>Yi, P.*</b> (2026). ENDOSOMAL SORTING COMPLEX REQUIRED FOR TRANSPORT machineries play crucial roles in vacuolar trafficking and cytokinesis in the moss Physcomitrium patens. <b>New Phytol</b>. doi: 10.1111/nph.71651. <a href="https://psyi.github.io/files/2026-NP.pdf">PDF</a> / <a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71651">web link</a>
+Ruan, J., Yin, Z., Gan, Y., Jiang, L., Guo, C. and <b>Yi, P.*</b> (2026). ENDOSOMAL SORTING COMPLEX REQUIRED FOR TRANSPORT machineries play crucial roles in vacuolar trafficking and cytokinesis in the moss Physcomitrium patens. <b>New Phytol</b>. doi: 10.1111/nph.71651. Online ahead of print. <a href="https://psyi.github.io/files/2026-NP.pdf">PDF</a> / <a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71651">web link</a>
 
 Yin, Z., Gan, Y., Chen, Y., Kozgunova, E., and <b>Yi, P.*</b> (2026). The Microtubule Cytoskeleton in Bryophytes. <b>Cytoskeleton (Hoboken)</b> 83(6): 294-321. <a href="https://psyi.github.io/files/2026-CYTO.pdf">PDF</a> / <a href="https://onlinelibrary.wiley.com/doi/10.1002/cm.22009">web link</a>
 
