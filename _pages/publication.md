@@ -10,7 +10,7 @@ redirect_from:
 
 <b>(# co-first author; * corresponding author)</b>
 
-Gan, Y., Ruan, J., Li, M., Li, C. and <b>Yi, P.*</b> (2026). Functional divergence of D-, A-, and B-type cyclins in the moss <I>Physcomitrium patens</I>. <b>bioRxiv</b>: 2026.2011.2022.768468. <a href="https://www.biorxiv.org/content/10.64898/2026.11.22.768468v1">web link</a>
+Gan, Y., Ruan, J., Li, M., Li, C. and <b>Yi, P.*</b> (2026). Functional divergence of D-, A-, and B-type cyclins in the moss <I>Physcomitrium patens</I>. <b>bioRxiv</b>: 2026.2011.2022.768468. <a href="https://www.biorxiv.org/content/10.64898/2026.11.22.768468v1">preprint</a>
 
 Lyu, R.#, Ruan, J.#, Chen, Y.#, Tian, H. and <b>Yi, P.*</b> (2026). Activation of ROPGEFs by a malectin-like receptor kinase is involved in tip growth regulation in <I>Physcomitrium patens</I>. <b>Proc Natl Acad Sci U S A</b> 123(47): e2620413123. <a href="https://psyi.github.io/files/2026-PNAS.pdf">PDF</a> / <a href="https://pnas.org/doi/10.1073/pnas.2620413123">web link</a>
 
